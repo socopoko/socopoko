@@ -1,4 +1,4 @@
-# Hi 👋, I'm Swagat 
+<h1 align="center">✨ Hi! I'm Swagat </h1> <br>
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=socopoko&style=flat-square&color=yellow) -->
 
@@ -11,6 +11,7 @@
 - 📫 How to reach me swagatp99@gmail.com
 
 - ⚡ Hobbies: :man_technologist: :open_book: :camera_flash: :musical_keyboard: :musical_note: :studio_microphone: :man_juggling: 
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=socopoko&layout=compact)](https://github.com/socopoko/github-readme-stats)
