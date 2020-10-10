@@ -1,6 +1,6 @@
 # Hi 👋, I'm Swagat 
 
-![Profile Views](https://komarev.com/ghpvc/?username=socopoko&style=flat-square&color=yellow)
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=socopoko&style=flat-square&color=yellow) -->
 
 - 🔭 I’m currently working on **making clones of different websites using React**
 
