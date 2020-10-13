@@ -1,6 +1,4 @@
-<h1 align="center">✨ Hi! I'm Swagat </h1>
-<h2 align="center">web development enthusiast</h2>
-<hr>
+<h1 align="center">✨ Hi! I'm Swagat <br><em>web development enthusiast</em></h1>
 
 <!-- ![Profile Views](https://komarev.com/ghpvc/?username=socopoko&style=flat-square&color=yellow) -->
 
