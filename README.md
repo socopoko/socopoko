@@ -1,6 +1,5 @@
-<h1 align="center">✨ Hi! I'm Swagat <br><em>web development enthusiast</em></h1>
+<h1 align="center">✨ Hi! I'm Swagat</h1>
 
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=socopoko&style=flat-square&color=yellow) -->
 
 - 🔭 I’m currently working on **making clones of different websites using React**
 
@@ -28,3 +27,5 @@
     <a href="https://dev.to/socopoko" alt="Dev"><img src="https://github.com/imdhruv99/imdhruv99/blob/master/readme/dev.png"></a>
 </p>
 </p>
+
+<!-- ![Profile Views](https://komarev.com/ghpvc/?username=socopoko&style=flat-square&color=yellow) -->
