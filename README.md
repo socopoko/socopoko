@@ -19,16 +19,16 @@ FOOTER
   <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
 </p>
 <p align="center">
-<a href="https://github.com/socopoko" target="_blank">
+<a href="https://github.com/socopoko">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://dev.to/socopoko" target="_blank">
+<a href="https://dev.to/socopoko">
 <img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/socopoko" target="_blank">
+<a href="https://linkedin.com/in/socopoko">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/socopoko" target="_blank">
+<a href="https://instagram.com/socopoko">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>  
 </p>
