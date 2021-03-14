@@ -22,9 +22,9 @@
 ## Rapidfire  
 <div>
   
-- 🔭 I’m currently working on **making clones of different websites using React**
+<!-- 🔭 I’m currently working on **making clones of different websites using React**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **MERN**
 
 - 💬 Ask me about **HTML, CSS, JavaScript** 
 
