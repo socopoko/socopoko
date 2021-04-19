@@ -11,9 +11,6 @@
 </a>
 <a href="https://linkedin.com/in/socopoko">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin"/>
-</a>
-<a href="https://instagram.com/socopoko">
-<img src="https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white" target="_blank" alt="instagram"/>
 </a>  
 </p>
 
