@@ -1,7 +1,7 @@
 <h1 align="center">✨ Hi! I'm Swagat</h1>
 
 <p align="center">
-  <i>Let's connect and chat! Open to anyone on Earth under the Sun and Moon.</i>
+  <i>Let's connect! Open to anyone on Earth under the Sun and Moon.</i>
 </p>
 <p align="center">
 <a href="https://github.com/socopoko">
