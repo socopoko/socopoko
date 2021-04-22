@@ -7,12 +7,15 @@
 <a href="https://github.com/socopoko">
 <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" target="_blank" alt="github"/>
 </a>
-<a href="https://dev.to/socopoko">
-<img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="devto"/>
-</a>
 <a href="https://linkedin.com/in/socopoko">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" alt="linkedin"/>
 </a>  
+<a href="https://dev.to/socopoko">
+<img src="https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white" target="_blank" alt="devto"/>
+</a>
+<a href="https://twitter.com/socopoko">
+  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" target="_blank" alt=twitter />
+</a>
 </p>
 
 <br/>  
