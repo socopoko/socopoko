@@ -44,7 +44,7 @@
 -->
 <br/>  
 
-
+<!--
 ## Languages and Tools  
 <p align="center">  
 
@@ -83,7 +83,7 @@
 </p>  
 
 <br/>  
-
+-->
 ## Github Stats  
 <table>
 <tr>
