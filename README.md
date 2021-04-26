@@ -28,7 +28,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **HTML, CSS, JavaScript** 
+<!-- 💬 Ask me about **HTML, CSS, JavaScript** -->
 
 - 📫 How to reach me swagatp99@gmail.com
 
